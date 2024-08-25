@@ -1,0 +1,14 @@
+HTTP/HTTPs
+     =usa criptografia ssl/tls em suas comunicacoes.
+     
+     --------------------------------------------------------------------------------
+     
+     - usado para unicacao da world wide web
+    
+    -suario normalmente é o navegador
+    
+    - o servidor é ou pode ser uma coleçao de maquinas mas se apresenta como uma.
+    
+    -restricoes na origem somente paginas de mesma origem podem acessar todas as informacoes de uma pagina web mas isso pode ser adulterado.
+    
+    -algumas paginas podem ser protegidasa para que apenas determinados usuarios acessem elas e a autenticacao basica pode ser fornecida por meio de cabecalhos http.

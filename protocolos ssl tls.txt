@@ -1,0 +1,33 @@
+protocolos ssl/tls
+
+
+-criptografa o trafego da internet
+
+-handshake
+
+-cliente entra em contato com o servidor e o servidor responde com um conjunto de 
+cifras, um conjunto de ferramentas
+
+-o navegador sabe usar esse kit de ferramentas
+
+-o navegador compara com sua lista de sifras suportadas seleciona uma para eles poderem se comunicar.
+
+
+-2 passo o navegador envia/fornece um certificado digital que contem a identidade ou identificacao que o servidor é legitimo.
+
+- o certificado e emitido por uma autoridade certificadora
+
+-entao o cliente confirma a autenticidade do certificado
+
+-confirmando a autenticidade do certificado pela chave publica o cliente e o servidor estabelecem uma chave privada de sessao e iniciam a comunicacao.
+
+-RESUMO: os protocolos ou a sigla fazem a criptografia de uma comunicacao+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,13 @@
+protocolo arp 
+
+-Mapeia o mac da camada 2 entre o 3 da camada de rede
+
+-atualizacao da tabela ARP
+
+-ele basicamente perguntaq pra os dispositivos conectados e com ip e que nao estao na tabela arp para que enviem o mac ou endereco da placa de rede.
+
+-requesicao é feita em broadcast para todos da rede e a resposta é em unicast
+
+
+
+
