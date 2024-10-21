@@ -1,0 +1,14 @@
+FTP transferencia de arquivo entre o cliente e o servidor
+
+pode ou nao possuir criptografia 
+
+o ftp estabelece 2 conexoes entre um cliente e um servidor
+
+21 é utilizada para controle da conexão
+controle do inicio e fim da transferencia 
+
+20 usada para transferencia de dados
+
+
+upload e download
+
