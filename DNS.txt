@@ -1,0 +1,22 @@
+DNS 
+
+tradução de ip para dominio
+
+cache DNS salva temporariamente o IP
+
+CDN Serviço para cache 
+
+DNS servers disponiveis em varias localidades
+
+resolve os dominios por esses navegadores
+
+configurações DNS devem ser feitas no roteador
+
+DNS sec esquema de criptografia para avaliar se aquele dominio é legitimo
+
+
+DNS root 
+
+ramificação
+
+servidores globais espalhados pelo mundo que se comunicam tambem para atualizaçao de ips 																																																																						
