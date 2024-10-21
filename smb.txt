@@ -1,0 +1,11 @@
+SMB
+
+fornecer acesso compartilhado a arquivos
+
+usado em windows junto com o AD 
+
+desenvolvvido pela microsoft
+
+samba possibilitou o SMB se uado pelo linux
+
+

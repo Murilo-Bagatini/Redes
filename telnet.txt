@@ -1,0 +1,8 @@
+TELNET 
+
+TERMINAL VIRTUAL BIDIRECIONAL
+
+roteadores podem se comunicar via telnet
+
+telnet não é seguro por conta da possivel interceptação das mensagens em texto plano acesso remoto a servidores de um jeito mais simples
+

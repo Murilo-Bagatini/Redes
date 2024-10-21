@@ -1,0 +1,52 @@
+MODELO OSI 
+
+cmada 7 aplicaçao
+*fornecer soluçoes de rede para aplicaçoes
+*prover serviços de rede para aplicaçoes
+*transferencia de email
+
+camada 6 apresentaçao
+
+*traduzir dados para que possam ser entendidos globalmente
+*formataçao de dados
+
+
+5 camada de sessao
+
+*responsavel pelo inicio meio e fim de uma sessao ou manter as sessoes
+
+*estabelecimento
+
+4 camada de transporte
+
+*Transporte de dados ponta a ponta
+
+*transmicao de dados confiavel
+
+3 camada rede
+
+*roteamento de pacotes e controle de trafego por meio do IP
+
+2 camada de enlace 
+
+*endereçamento fisico e transmiçao confiavel de dados
+
+1 camada fisica 
+
+*transmiçao de bits atravez de meio de transmiçao 
+
+modelo tcp/ip ja é mais compacto modelo de mercado com 4 camadas
+
+sendo elas 
+
+Aplicaçao 
+
+
+transporte
+
+
+internet
+
+
+aceso a rede
+

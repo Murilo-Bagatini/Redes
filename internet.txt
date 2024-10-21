@@ -1,0 +1,6 @@
+internet é uma rede de computadores constituida dee canais de comunicaçao que podem ser sem fio ou fiados com cabos de cobre fibra optica ETC
+
+MAC ENDEREÇO FISICO DA PLACA DE REDE 
+
+IP endereço logico
+

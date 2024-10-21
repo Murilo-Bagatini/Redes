@@ -1,0 +1,31 @@
+secure socket shell 
+
+acessar e gerenciar servidores pela internet melhoria do telnet por terminal virtual criptografia simétrica assimetrica ou por hashing
+
+CRIPTOGRAFIA SIMETRICA
+Meio seguro que fica entre a chave secreta compartilhada 
+
+informa~ão enviada criptografada e chega no destino decifrada para que o usuario possa identificar a mensagem
+
+por meio de uma unica chave secreta compratilhadada 
+
+Criptografia assimetrica
+
+chave disponivel publica e uma chave privada que serve como senha entre " "
+
+chave publica serve para criptografar os dados e chave privada para descriptografar
+
+
+par criptografico publico e privado
+
+HASHING
+
+
+codificação de dados e mensagens mas nunca a decodificação das informações
+
+o hashing gera um valor unico de comprimento fixo pra cada frase caractere vai ter o mesmo tamanho 
+
+e gera uma hash nova e unica impossibilitando a decodificação
+
+
+

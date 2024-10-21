@@ -1,0 +1,9 @@
+IPV6 e IPV4 
+
+ipv4 substituido por conta da capaacidade de dispositivos conectados 32 bits
+
+ipv6 mais seguro e muito mais combinaçoes 128 bits
+
+e tambem nao exixte ip publilco e privado e sim um ip conectado diretamente 
+
+criptografia de ponta a ponta 

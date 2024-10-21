@@ -1,0 +1,12 @@
+RIP 
+
+troca de informaçoes entre roteadores
+
+
+sucetivel a falhas
+
+UDP
+
+emite mensagem de atualizaçao de suas rotas e quando a topologia de rede mudar
+
+mantem somente a melhor rota ou rota com valor metrico menor menor numero de saltos

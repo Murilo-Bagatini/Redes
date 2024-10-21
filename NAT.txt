@@ -1,0 +1,1 @@
+NAT  - esquema de portas no roteador e um hash para saber qual maquina da rede interna fez uma request ele contem o endereço da maquina de origem uma porta no seu computador para ele identificar transportar os dados, 

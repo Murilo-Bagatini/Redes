@@ -1,0 +1,12 @@
+protocolo pppoe: usado para estabeçecerum metodo criptografa uma conexao direta entre dois dispositivos fornece autenticaçao e criptografia
+
+
+PPOE - encapsula os quadros PPP dentro do frame ethernet.
+
+a autenticacao ppp funciona de duas formas com o PAP e com o chap
+
+PAP - usa um metodo simples de senha enviado em texto puro para o host remoto
+
+CHAP - usa um metodo de senha criptografado onde um host envia um chalenge para o host remoto que responde enviando o login e senha 
+
+POe serve para realizar a autenticaçao de um usuario em um provedor de internet.

@@ -1,0 +1,50 @@
+tcp e udp 
+
+
+TCP 
+orientado a conexão a aplicaçao envia um pedido de conexao e usa a conexao para transmiçao de dados
+
+validaçao de que a comunicação foi bem sucedida 
+
+antes da troca de dados é feita uma conexão para controle dos dados e se os dados foram enviados corretamente a validação
+
+comunicação de ponta a ponta mesmo em broadcast
+
+confiabilidade
+
+identifica pacotes perdidos e corrompidos
+
+
+e se ocoorrer erros ele busca outra rota
+
+entrega ordenada de pacotes 
+
+quebra de dados em segmentos por conta do tamanho
+
+divisao feita pelo MTU
+
+envia ordenadamente os pacotes fragmentados mas por conta das rotas nao significa que chegara ordenadamente no ponto B mas quando identificar a chegada completa dos pacotes ele ordena
+
+controle de fluxo basaicamente o receptor envia flags ACK onde confirma a receepçao de pacotes e quem esta enviando o protocolo consegue dosar
+o envio por meio dos bytes suportados
+
+pra nao sobrecarregar o alvo conforme a identificaçao da latencia 
+
+se identificar que esta sobrecarregando ele diminui a taxa de transmição pois esta sobrecarregando ele controla o congestionamento
+
+por isso o tcp é confiavel ele controla o fluxo e o congestionamento na entrega dos pacotes talvez demore mais para fazer um download por exemplo é apenas o protocolo controlando a entrega de pacotes
+
+SYN abertura de sessao
+
+SYN ACK confirmaçao pelo servidor 
+
+
+ACK
+
+flag fin encerra sessao ja estaabelecida
+
+flag rst ACK RST algo deu erradodo 
+
+UDP 
+
+bem masi simples apenas envia o pacote isso se adequa a serviços mais simples envolvendo video e voz 

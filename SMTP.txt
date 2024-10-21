@@ -1,0 +1,15 @@
+SMTP
+
+protocolo de transferencia de email
+
+responsavel pelo envio
+
+porta 25 
+
+apenas o envio
+
+em texto plano 
+
+email repasssado por hops
+
+smtp auth addon para o smtp  que nao possui nativamente a AUTENTICAÇÃO

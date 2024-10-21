@@ -1,0 +1,1 @@
+proxy = servidor ou aplicação que serve como intermediario para requisições de clientes solicitando recursos de outros servidores

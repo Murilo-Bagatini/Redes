@@ -1,0 +1,29 @@
+POP3 e IMAP
+
+
+
+POP3
+camada 7 
+
+PORTA 110
+
+porta 995 com SSL/TLS
+
+acesso remoto a um servidor de email
+que permiteque todas as mensagens contidas em uma inbox de correio eletronico possam ser transferidas para um software cliente de email
+
+
+duncionamento OFFline ele baixa as mensagens para o seu disco rigido elas nao ficam armazenadas em um servidor 
+
+
+IMAP 
+porta 143 e 993
+
+
+armazena no servidor 
+
+comunicaçao bidirecional comunicaçao a todo o momento  
+
+
+
+

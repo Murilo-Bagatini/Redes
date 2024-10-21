@@ -1,0 +1,35 @@
+HTTP / HTTPS
+
+unir varias informaçoes em forma de texto hypertexto texto com midias
+hypertexto é uma estrutura de texto comunicada pelo HTTTP
+
+
+
+servidor fornece os dados acessados pelo cliente e o servidor pode ser varias maquinas 
+
+SIMPLES e LEGIVEWL
+
+EXTENSIVEl
+
+sem estado
+
+ele armazena as sessoes em cookies
+
+controle de cache 
+
+reestriçoes na origem - somente paginas da mesma origem podem acessar todas as informaçoes de uma pagina web
+
+Autenticaçao simples: paginas protegidas para que apenas usuarios especificos possam acessalas a autenticação basica pode ser feita por cabeçalhos HTTP
+
+
+proxy e tunelamento
+
+COOKIES 
+
+fluxo HTTP conexao tcp mensagem ao servidor pedindo a conexao le a mensagem de resposta do servidor fecha ou reutiliza a conexoes para requisaiçoes futuras
+
+COOKIES 
+
+fragmento de dados que o servidor envia para o navegador o navegador pode armazenar eses dados e envialos de volta na proxima requisiçao ele confirma se as duas requisiçoes sao do mesmo navegador
+
+HTTP2 objetivo encapsular as requisiçoes em frames ja vem com https nativo envio mais rapido e ele é hibrido se nao for possivel a comunicaçao em http2 ele usa o http 1.1

@@ -1,0 +1,9 @@
+RDP
+
+protocolo de aceso a area de trabalho remota permite acesssar remotamente o seu windows
+
+
+conectar a um  PC de maneira remota
+
+bluekeep RCE 
+

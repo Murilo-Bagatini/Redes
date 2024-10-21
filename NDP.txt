@@ -1,0 +1,22 @@
+NDP
+
+IPV6
+
+auto configuração dos hosts conectados
+
+descoberta de outros hosts na rede local
+
+determinaçao de endereços de endereços de outros nós
+
+detecçao de ips duplicados
+
+localizaçao de roteadores e servidores DNS disponiveis
+
+solicitação de roteadores osroteadores fazem consultas para localizar roteadores em um link anexado
+
+
+anuncio de roteadores os rotredores em resposta a uma pergunta ou agendando avisam sobre sua presença
+
+verifica equipamentos proximos
+
+anuncio de vizinho 

@@ -1,0 +1,11 @@
+icmp comunicar informaçoes de camada de rede fornecer relatorios de erros a fonte original
+
+echo request e echo replay eniva o request para a maquina alvo e ela te responde com um replay  te mostrando o tempo em milisegundos
+
+code - indica a razao da perda do datagrama
+
+timestamp request ou replay sicronizaçao dos relogios das maquinas
+
+relatorios de erros
+
+comunicar informaçoes da camada de rede sendo o uso mais comum para fornecer relatorios de erros a fonte original qualquer computador que utiliza ip precisa aceitar as mensagens icmp e alterar o seu comportamento de acordo com o erro declarado

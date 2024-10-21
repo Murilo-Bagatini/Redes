@@ -1,0 +1,17 @@
+IPsec
+
+extensão do protocolo ip
+
+manter pilares da segurança da informaçao
+
+modo de transporte faz a criptografia apenas da mensagem ou apenas do campo de dados
+
+
+
+
+
+modo de tunelamento o pacote IP é criptografado por inteiro conexao segura 
+
+ESP prove a aitenticacao confidencialidade dos dados e integridade da mensagem
+
+melhoria do protocolo de comunicaçao

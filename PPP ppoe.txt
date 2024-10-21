@@ -1,0 +1,24 @@
+PPP e PPPOE 
+
+estabelecer uma conexao direta entre dois hosts 
+
+fornece autenticação e criptografia
+ 
+PAP
+
+metodo simples de senha que e enviada em texto puro para o host remoto
+
+chap metodo de senha criptografado
+
+PPPOe
+
+encapsula quadros ppp em frames ethernet 
+
+solução de tunelamento de pacotes para conexoes sobre DSL para redes IPs
+
+autenticação do usuario no provedor por meio de usuario e senha 
+
+
+autenticaçao pode ser feita no mod3em
+
+pode ocorrer a autenticaçao pela onu coversor de luz pra dados ou ate dentro do roteador

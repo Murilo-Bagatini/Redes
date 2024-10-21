@@ -1,0 +1,29 @@
+kerberos - protocolo de autenticaçao
+
+KDC - serviço de autenticaçao confiavel
+
+unico processo que exerce duas funçoes autenticaçao e concessao de tikets que fornecem autenticaçao para todas as partes
+permitindo a verificaçao de identidade
+
+autentica solicitaçoes de serviços entre dois ou mais hosts
+
+
+autenticação padrão
+
+cliente servidor e KDC
+
+
+KDC - serviço de autenticação de terceiros
+
+autenticação 
+
+concessão de tickets permite verificar a identidade com segurança
+
+Cliente - atua como nome de usuario e inicia a comunicação para uma solicitação de serviço 
+
+servidor - hospeda o serviço que o usuario deseja acessar
+
+
+quando a autenticação for estabelecida o servidor de autenticação fornece um TGT que é um ticket que confirma que voce está autenticado
+
+mao é necessario uma nova autenticação poque pelo servidor de concessão de tickets ja é confirmado que voce esta autenticado

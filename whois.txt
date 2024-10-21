@@ -1,0 +1,6 @@
+WHOIS - protocolo de consulta e resposta
+
+consulta de contato DNS
+
+consulta de contato e dns 
+

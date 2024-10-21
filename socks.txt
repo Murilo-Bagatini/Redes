@@ -1,0 +1,8 @@
+socks - faz o papel de proxy intermediando a comunicaaaço muito usado para serviços de caching
+
+um servidor proxy socks é usado para transferir dados entre computadores com regras de filtragem para maior segurança
+
+camada 5 de sessão 
+
+acelerar o acesso aos dados
+

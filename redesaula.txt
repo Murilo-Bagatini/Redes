@@ -1,0 +1,20 @@
+A rede de computadores é constituida por canais de comunicaçao que podem ser sem fio ou fiados e a internet é interconectada
+por meio de cabos metalicos ou por meio do ar com uso de dispositivos como roteadores roteadores de borda switchs antenas modens
+
+ip -usado para identificar dispositivos e conexoes que reconheçe a comunicaçao entre dois dispositivos distintos por meio do TCP/ip
+
+gatway
+
+ip interno x externo
+
+mascara numero de dispositivos que podem ser conectados na internet
+
+mac media acess control
+
+endereço fisico
+
+as conexoes funcionam por meio do ip e por meio do mac  
+
+subredes e divisao de rede
+
+modem 

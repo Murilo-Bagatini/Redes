@@ -1,0 +1,19 @@
+OSPF
+
+ao inves de manter uma tabela com todas as rotas o ospf faz a comunicaçao com outros roteadores tendo dados sobre todos os links da rede
+
+cada entrada da tabela ospf contem um identificador de interface  um numero do link uma distancia ou custo 
+
+cada no possui uma visao da topologia de rede ciompleta o ospf descobre sozinho o melhor caminho para um dado destino
+
+caso  ocorra alteraçao nos nós eles coversam entre SI
+
+caso ele encontre uma melhor rota que nao esteja na sua tabela ele proprio adiciona a rota na tabela
+
+
+envia avisos sobre o estado da conexão a todos os outros roteadores 
+
+ele nao vcarrega os dados nem pelo udp nem pelo tcp 
+
+ele envia datagramas ip empacota eles usando o numero de protocolo 89
+

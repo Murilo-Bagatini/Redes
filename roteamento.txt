@@ -1,0 +1,23 @@
+roteamento - entregar pacotes de dados fim a fim para aplicacoes ou outras camadas de protocolos atraves de uma infraestrutura de redes interconectadas  
+
+O serviço de roteamento possibilita que o roteador analise os caminhos disponiveis para um determinado destino e estabeleça qual o caminho de preferencia para o envio de pacotes para este destino
+
+inicializaçao e manutenção de tabelas de rotas 
+
+processos e protocolos de atualização de rotas
+
+especificação de endereços e dominios de roteamento
+
+tabelas de roteamento 
+
+estatico
+- depende da inserçao de uma rota manual
+
+dinamico
+-usa protocolos de roteamento algoritimos para trocarem informaçoes de rotas com outros roteadores
+
+- atualizaçao automatica das tabelas de roteamento
+
+
+deafult 
+

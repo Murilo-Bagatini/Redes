@@ -1,0 +1,39 @@
+snmp 
+
+ptotocolo de controle e gestao de rede 
+
+porta 161
+
+gerenciar dispositivos em REDES IP
+
+monitorar equipamentos em rede 
+
+
+SNMPtrap
+
+comunicaçao e notificações 
+
+monitorar se um roteador esta com ping bom travamentos ETC
+
+Componentes
+
+Dispositivo gerido
+um dispositivo que tem a tecnologia SNMP "instalada" e é gerenciado pelo sistema de gerenciamento de redes
+
+
+
+Agentes 
+software de gestão de rede que fica instalado no dispositivo gerido
+
+sistema de gerenciamento de redes
+
+responsavel pelas aplicaçoes que monitoram e controlam os dispositivos geridos 
+
+MIB e segurança
+
+base de dados que fica dentro dos dispositivos geridos e ela armazena todos os dados e envia para o servidor de gerenciamento
+
+monitoramento continua offline mesmo que estiver sem acesso a rede ele armazena nas MIBS
+
+
+  

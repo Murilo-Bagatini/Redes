@@ -1,0 +1,22 @@
+proxy - servidor ou aplicação que age como intermediario entre uma comunicação cliente servidor
+
+filtro de conteudo
+-servidor dentro de um ambiente corporativo normalmente para sair para sair para internet todas comunicações passam por esse proxy
+ e ai podem existir regras de proxy para manipular oque pode ou não ser procurado
+
+
+aumentar sigilo
+
+aumento de sigilo
+cache
+cache armazenamento apartir do primeiro acesso
+
+
+modificação de requesiçoes
+
+burp suite
+
+modificação de requests
+
+proxyes mais comuns sao os webs
+
